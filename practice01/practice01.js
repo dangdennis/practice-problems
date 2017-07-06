@@ -12,3 +12,6 @@ function returnArrBiggerWords(str, arr) {
 	// })
 	// return newArr;
 };
+
+var myArray = ['bug', 'insect', 'mammal', 'reptile', 'mammoth', 'turtles'];
+biggerWords('whales', myArray);
